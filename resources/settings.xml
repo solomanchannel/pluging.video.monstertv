@@ -2,10 +2,10 @@
 <settings>
    
     <category label="33001">
-		<setting id="portal_name_1" type="text" label="30000" default="scarface" />
+		<setting id="portal_name_1" type="text" label="30000" default="monstertv" />
    	 	<setting id="portal_url_1" type="text" label="30001" default="http://portal.iptvprivateserver.tv" />
    	 	<setting label="30008" type="bool" id="custom_mac_1" default="true"/>
-   	 	<setting id="portal_mac_1" type="text" label="30002" default="00:1A:79:4A:67:B9" visible="eq(-2,false)" />
+   	 	<setting id="portal_mac_1" type="text" label="30002" default="00:1A:79:4A:67:B8" visible="eq(-2,false)" />
    	 	
    	 	<setting label="30009" type="bool" id="send_serial_1" default="true"/>
    	 	<setting label="30014" type="bool" id="custom_serial_1" default="false" visible="eq(-1,true)"/>
